@@ -4,7 +4,7 @@ pkgs.mkShell {
   nativeBuildInputs = [
     cargo
     cargo-edit
-    # libiconv
+    libiconv
     openssl
     pkg-config
     rust-analyzer

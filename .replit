@@ -15,6 +15,4 @@ pattern = "**/*.rs"
 start = "rust-analyzer"
 
 [nix]
-# channel = "stable-21_11"
 channel = "unstable"
-# channel = "nixpkgs-unstable"
